@@ -27,4 +27,5 @@ logs
 
 # Project Ignore
 *.mdb
-*output.json
+output.json
+last_week.json
